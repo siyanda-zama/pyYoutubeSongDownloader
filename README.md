@@ -2,7 +2,7 @@
 A selenium script that fetches a youtube url of a preferred song and and downloads it in a mp3 format for listening pleasure. 
 
 
-## Bugs and Fixes that need to be made.
+## Bugs and Fixes that need to be made
 
 The program gets a little buggy when you use it on an unstable connection, but overall works. Right now I was'nt able to get it 
 download the mp3 file, but it does take you to the final screen where you just have to push the download button.
