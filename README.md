@@ -17,7 +17,9 @@ Now depending on which webdriver you are going to using you'll need to change th
 
 If the program keeps on crashing or showing any eror, its just your internet connection that could be making the program to lag
 a bit. I highly recommend using the find_element_by_xpath in my oponion its much more reliable than using any of the other 
-element finders.
+element finders. A raise TimeoutException(message, screen, stacktrace) exeception may be raised that may just be the
+download button waiting to load. Overall this whole program highly relies on the strength of your internet connection. So if 
+you keep on getting error messages like any of these, just try to run it again.
 
 ## Enjoy your favourite songs for free
 
